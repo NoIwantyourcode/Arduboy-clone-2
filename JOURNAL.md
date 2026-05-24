@@ -1,4 +1,11 @@
-**Total Time Spent: 4 hours**
+**Total Time Spent: 7 hours**
+
+# Routed the whole PCB, Finished BOM, Changed Display model.
+Date: May 24th 2026, Sunday
+I completed routing the whole PCB and made the BOM, When making the BOM I realised that the Adafruit display was too expensive and instead opted for a cheaper still 1.3 inch SPI display of aliexpress. 
+
+Here is a picture of the routed PCB!
+<img width="463" height="751" alt="Screenshot 2026-05-24 151544" src="https://github.com/user-attachments/assets/5399dd60-e5de-4816-a278-0361c36fda5e" />
 
 # Completed the whole Schemetics!
 Date: May 24th 2026, Sunday
