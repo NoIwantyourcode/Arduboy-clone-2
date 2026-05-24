@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 25,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -32,6 +32,7 @@
       "vias",
       "footprint_text",
       "footprint_anchors",
+      "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
@@ -127,12 +128,12 @@
       },
       {
         "name": "Arduboy-clone.kicad_pcb",
-        "open": true,
+        "open": false,
         "window": {
           "display": 0,
-          "maximized": false,
-          "pos_x": 55,
-          "pos_y": 603,
+          "maximized": true,
+          "pos_x": -12,
+          "pos_y": -12,
           "size_x": 2904,
           "size_y": 1860
         }
