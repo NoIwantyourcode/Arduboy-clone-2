@@ -1,7 +1,16 @@
-**Total Time Spent: 2 hours**
+**Total Time Spent: 4 hours**
+
+# Completed the whole Schemetics!
+Date: May 24th 2026, Sunday
+Today I completed finished the schematics and will now move onto the PCB routing,
+I decided to use a AAA battery power source as its widely availible and easy to put!
+I also used a standard Adafruit SSD1306 display!
+
+heres a picture of the schematic:
+<img width="1146" height="751" alt="Screenshot 2026-05-24 130716" src="https://github.com/user-attachments/assets/5d2009f4-83a6-4b49-9d38-6d64180069de" />
 
 # Added the MPU, Decoupling Capacitors, Display and Buttons!
-Date: May 23rd 2026, Sunday
+Date: May 23rd 2026, Saturday
 Today I added the MPU and main display to the PCB, Routed all the buttons and added decoupling capacitors as well!
 
 Here are some pictures of the current Schematics:
