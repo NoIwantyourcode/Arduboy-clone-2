@@ -10750,6 +10750,18 @@
 		(layer "Edge.Cuts")
 		(uuid "de3f764e-4836-4e50-84fe-a9b889c19eae")
 	)
+	(gr_text "Naytik's Arduboy"
+		(at 191.51 142.73 0)
+		(layer "F.SilkS")
+		(uuid "df311d90-90de-4cd7-bfde-3f1347e6ce4d")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 161.21 94.6125)
 		(end 161.21 98.69)
