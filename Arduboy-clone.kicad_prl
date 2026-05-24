@@ -83,14 +83,14 @@
     "files": [
       {
         "name": "Arduboy-clone.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
-          "maximized": false,
-          "pos_x": -10,
-          "pos_y": 0,
-          "size_x": 1460,
-          "size_y": 1846
+          "maximized": true,
+          "pos_x": -12,
+          "pos_y": -12,
+          "size_x": 2904,
+          "size_y": 1860
         }
       }
     ]
