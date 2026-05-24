@@ -14,3 +14,6 @@ I have always wanted a game console, But my parents have never let me have one, 
 
 # PCB rendered pictures
 <img width="2001" height="1359" alt="Screenshot 2026-05-24 151535" src="https://github.com/user-attachments/assets/294bd35e-3031-457f-ae10-356ba962cfbb" />
+
+#Case pictures
+<img width="2040" height="1259" alt="Screenshot 2026-05-24 170834" src="https://github.com/user-attachments/assets/46e19610-8122-4407-9ffe-7de0414d1100" />
