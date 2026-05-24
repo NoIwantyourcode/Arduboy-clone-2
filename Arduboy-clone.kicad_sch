@@ -702,7 +702,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector_Generic:Conn_01x08"
+		(symbol "Connector_Generic:Conn_01x07"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -718,8 +718,8 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x08"
-				(at 0 -12.7 0)
+			(property "Value" "Conn_01x07"
+				(at 0 -10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -744,7 +744,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(property "Description" "Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -771,10 +771,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_01x08_1_1"
+			(symbol "Conn_01x07_1_1"
 				(rectangle
 					(start -1.27 8.89)
-					(end 1.27 -11.43)
+					(end 1.27 -8.89)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -852,17 +852,6 @@
 				(rectangle
 					(start -1.27 -7.493)
 					(end 0 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -10.033)
-					(end 0 -10.287)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -990,24 +979,6 @@
 						)
 					)
 					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -10.16 0)
-					(length 3.81)
-					(name "Pin_8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4498,7 +4469,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 26.67) (xy 177.8 26.67)
+			(xy 163.83 36.83) (xy 177.8 36.83)
 		)
 		(stroke
 			(width 0)
@@ -4598,7 +4569,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 36.83) (xy 175.26 36.83)
+			(xy 163.83 39.37) (xy 175.26 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5158,7 +5129,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 34.29) (xy 177.8 34.29)
+			(xy 163.83 26.67) (xy 177.8 26.67)
 		)
 		(stroke
 			(width 0)
@@ -5528,7 +5499,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 24.13) (xy 177.8 24.13)
+			(xy 163.83 34.29) (xy 177.8 34.29)
 		)
 		(stroke
 			(width 0)
@@ -5607,7 +5578,7 @@
 		(uuid "11b5b773-a503-4c26-abf9-e2c1816bafb9")
 	)
 	(label "CLK"
-		(at 177.8 26.67 180)
+		(at 177.8 36.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5627,7 +5598,7 @@
 		(uuid "40db0d9a-fa66-4a04-a50c-ea7b6c277eb2")
 	)
 	(label "CS"
-		(at 177.8 34.29 180)
+		(at 177.8 26.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5677,7 +5648,7 @@
 		(uuid "bf26e3e5-fab5-4e98-ac33-0980f3afef5f")
 	)
 	(label "MOSI"
-		(at 177.8 24.13 180)
+		(at 177.8 34.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6140,94 +6111,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x08")
-		(at 158.75 34.29 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "21acffeb-80ad-4a19-9e9b-1d50c79d3e27")
-		(property "Reference" "J2"
-			(at 158.75 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x08"
-			(at 158.75 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Display:Adafruit_SSD1306"
-			(at 158.75 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 158.75 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 158.75 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "214a83ec-9cfa-46c8-a6df-987ad3680c4b")
-		)
-		(pin "6"
-			(uuid "aca2b19f-2a5e-44c4-bd0d-26f09a89c271")
-		)
-		(pin "2"
-			(uuid "c053b8fa-c8da-4d0c-b644-fba4c2d939d3")
-		)
-		(pin "4"
-			(uuid "6a2907b9-75fb-4328-a167-4790e3cabbb5")
-		)
-		(pin "5"
-			(uuid "01b04ea8-4187-49fa-8c6d-8bc8681418ee")
-		)
-		(pin "3"
-			(uuid "6902f736-9bad-45ac-9b0d-4a981d9627cb")
-		)
-		(pin "7"
-			(uuid "0ef6087f-c341-46cc-a83c-f8c5c21e9d38")
-		)
-		(pin "8"
-			(uuid "0b08bd51-08f3-42cf-86bf-4c89e4b3076a")
-		)
-		(instances
-			(project ""
-				(path "/5af127a6-c873-46d1-bf24-0405669f4d95"
-					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:5V")
-		(at 175.26 36.83 270)
+		(at 175.26 39.37 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6236,7 +6121,7 @@
 		(fields_autoplaced yes)
 		(uuid "244a1da1-00fb-4bcd-a80d-30ed00fb1fb0")
 		(property "Reference" "#PWR014"
-			(at 171.45 36.83 0)
+			(at 171.45 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6245,7 +6130,7 @@
 			)
 		)
 		(property "Value" "5V"
-			(at 179.07 36.83 0)
+			(at 179.07 39.37 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -6254,7 +6139,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 175.26 36.83 0)
+			(at 175.26 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6263,7 +6148,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 36.83 0)
+			(at 175.26 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6272,7 +6157,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"5V\""
-			(at 168.91 36.83 0)
+			(at 168.91 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8722,10 +8607,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9a7b28ce-039a-460b-938a-7f4859aed804")
+			(uuid "9a7b28ce-039a-460b-938a-7f4859aed805")
 		)
 		(pin "2"
-			(uuid "ad93be3d-b333-4dd1-a325-47038f5477ef")
+			(uuid "ad93be3d-b333-4dd1-a325-47038f5477f0")
 		)
 		(instances
 			(project ""
@@ -9388,6 +9273,89 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x07")
+		(at 158.75 34.29 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9514343-5c21-45a6-af5a-ea589be4bb6d")
+		(property "Reference" "J2"
+			(at 158.75 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x07"
+			(at 158.75 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical"
+			(at 158.75 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 158.75 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "c2111937-0132-4c3f-a44d-9910dc14feeb")
+		)
+		(pin "5"
+			(uuid "711bb7b2-c1d9-4151-ad19-800428d4b4f9")
+		)
+		(pin "6"
+			(uuid "ff75bae9-3c0d-4976-8b27-195844d3db5e")
+		)
+		(pin "3"
+			(uuid "083713fa-5b3c-4e4c-b981-bddec821aede")
+		)
+		(pin "2"
+			(uuid "ba823f9d-d7eb-4ae2-9a92-6b38fb984df5")
+		)
+		(pin "7"
+			(uuid "4ad67101-23d8-4936-8a02-f300d77b212f")
+		)
+		(pin "1"
+			(uuid "d38ce1d7-c353-411b-93a5-5838bd735017")
+		)
+		(instances
+			(project ""
+				(path "/5af127a6-c873-46d1-bf24-0405669f4d95"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_SparkFun-Clock:Crystal_16MHz_2.0x1.6mm")
 		(at 194.31 69.85 90)
 		(unit 1)
@@ -9963,10 +9931,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "33c010e4-f788-40e2-8e40-d86d023f6aeb")
+			(uuid "33c010e4-f788-40e2-8e40-d86d023f6aec")
 		)
 		(pin "2"
-			(uuid "628221ae-1670-494c-b9d0-f985406797c4")
+			(uuid "628221ae-1670-494c-b9d0-f985406797c5")
 		)
 		(instances
 			(project ""
