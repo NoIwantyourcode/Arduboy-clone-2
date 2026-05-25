@@ -15,8 +15,14 @@ I have always wanted a game console, But my parents have never let me have one, 
 # PCB rendered pictures
 <img width="2001" height="1359" alt="Screenshot 2026-05-24 151535" src="https://github.com/user-attachments/assets/294bd35e-3031-457f-ae10-356ba962cfbb" />
 
-#Case pictures
-<img width="1894" height="1253" alt="Screenshot 2026-05-24 172954" src="https://github.com/user-attachments/assets/bbccfee5-b066-49a7-a5d7-beffb9e5c6fd" />
+# Case pictures
+<img width="2122" height="1326" alt="Screenshot 2026-05-25 184526" src="https://github.com/user-attachments/assets/c2f111ed-85b5-4417-b197-7984f05db73c" />
+
+# Semi-Assembled pictures
+<img width="2102" height="1374" alt="Screenshot 2026-05-25 184536" src="https://github.com/user-attachments/assets/efcc0475-2f62-47c7-8242-d55972e6e728" />
+
+# Assembled pictures
+<img width="1698" height="1389" alt="Screenshot 2026-05-25 184548" src="https://github.com/user-attachments/assets/d30d37f3-b0e0-48b4-b16f-00a73c75e1a4" />
 
 # Note to reviewers
 
