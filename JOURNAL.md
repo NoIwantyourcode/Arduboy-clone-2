@@ -5,7 +5,8 @@ Time: 4.5 hours
 Date: May 24th 2026, Sunday
 I completed routing the whole PCB and made the BOM and also made the case as well, When making the BOM I realised that the Adafruit display was too expensive and instead opted for a cheaper still 1.3 inch SPI display of aliexpress. 
 
-Here is a picture of the routed PCB and the case!
+Here is a picture of the routed PCB and the case:
+
 <img width="463" height="751" alt="Screenshot 2026-05-24 151544" src="https://github.com/user-attachments/assets/5399dd60-e5de-4816-a278-0361c36fda5e" />
 <img width="2122" height="1326" alt="Screenshot 2026-05-25 184526" src="https://github.com/user-attachments/assets/2ada4343-a494-4c7a-9014-97c00443b2f4" />
 
