@@ -125,6 +125,18 @@
           "size_x": 2904,
           "size_y": 1860
         }
+      },
+      {
+        "name": "Arduboy-clone.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 41,
+          "pos_y": 287,
+          "size_x": 2904,
+          "size_y": 1860
+        }
       }
     ]
   },
