@@ -16,4 +16,8 @@ I have always wanted a game console, But my parents have never let me have one, 
 <img width="2001" height="1359" alt="Screenshot 2026-05-24 151535" src="https://github.com/user-attachments/assets/294bd35e-3031-457f-ae10-356ba962cfbb" />
 
 #Case pictures
-<img width="2040" height="1259" alt="Screenshot 2026-05-24 170834" src="https://github.com/user-attachments/assets/46e19610-8122-4407-9ffe-7de0414d1100" />
+<img width="1894" height="1253" alt="Screenshot 2026-05-24 172954" src="https://github.com/user-attachments/assets/bbccfee5-b066-49a7-a5d7-beffb9e5c6fd" />
+
+# Note to reviewers
+
+I managed to get the dimension tool to work and I now have a top case design!
