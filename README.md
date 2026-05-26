@@ -16,13 +16,13 @@ I have always wanted a game console, But my parents have never let me have one, 
 <img width="2001" height="1359" alt="Screenshot 2026-05-24 151535" src="https://github.com/user-attachments/assets/294bd35e-3031-457f-ae10-356ba962cfbb" />
 
 # Case pictures
-<img width="2122" height="1326" alt="Screenshot 2026-05-25 184526" src="https://github.com/user-attachments/assets/c2f111ed-85b5-4417-b197-7984f05db73c" />
+<img width="1699" height="1031" alt="Screenshot 2026-05-26 144751" src="https://github.com/user-attachments/assets/835cb8e6-e293-4ca4-9701-6e6d6ad90719" />
 
 # Semi-Assembled pictures
-<img width="2102" height="1374" alt="Screenshot 2026-05-25 184536" src="https://github.com/user-attachments/assets/efcc0475-2f62-47c7-8242-d55972e6e728" />
+<img width="1303" height="919" alt="Screenshot 2026-05-26 144833" src="https://github.com/user-attachments/assets/301ff1cd-5665-4feb-aa37-21a71bf57c13" />
 
 # Assembled pictures
-<img width="1698" height="1389" alt="Screenshot 2026-05-25 184548" src="https://github.com/user-attachments/assets/d30d37f3-b0e0-48b4-b16f-00a73c75e1a4" />
+<img width="1436" height="860" alt="Screenshot 2026-05-26 144817" src="https://github.com/user-attachments/assets/d613a32f-9d34-48d1-aab2-68ffbb6cb945" />
 
 # Note to reviewers
 
