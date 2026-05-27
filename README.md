@@ -20,6 +20,7 @@ I have always wanted a game console, But my parents have never let me have one, 
 
 # Assembled pictures
 <img width="1493" height="974" alt="Screenshot 2026-05-27 115144" src="https://github.com/user-attachments/assets/b402a3f4-5b3c-4d62-8e96-7c588c7c91c4" />
+
 # Note to reviewers
 
 I managed to get the dimension tool to work and I now have a top case design!
