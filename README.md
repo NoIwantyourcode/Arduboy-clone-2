@@ -16,14 +16,10 @@ I have always wanted a game console, But my parents have never let me have one, 
 <img width="2001" height="1359" alt="Screenshot 2026-05-24 151535" src="https://github.com/user-attachments/assets/294bd35e-3031-457f-ae10-356ba962cfbb" />
 
 # Case pictures
-<img width="1699" height="1031" alt="Screenshot 2026-05-26 144751" src="https://github.com/user-attachments/assets/835cb8e6-e293-4ca4-9701-6e6d6ad90719" />
-
-# Semi-Assembled pictures
-<img width="1303" height="919" alt="Screenshot 2026-05-26 144833" src="https://github.com/user-attachments/assets/301ff1cd-5665-4feb-aa37-21a71bf57c13" />
+<img width="1375" height="946" alt="Screenshot 2026-05-27 115304" src="https://github.com/user-attachments/assets/992c019f-006c-4648-a67e-65030c208860" />
 
 # Assembled pictures
-<img width="1436" height="860" alt="Screenshot 2026-05-26 144817" src="https://github.com/user-attachments/assets/d613a32f-9d34-48d1-aab2-68ffbb6cb945" />
-
+<img width="1493" height="974" alt="Screenshot 2026-05-27 115144" src="https://github.com/user-attachments/assets/b402a3f4-5b3c-4d62-8e96-7c588c7c91c4" />
 # Note to reviewers
 
 I managed to get the dimension tool to work and I now have a top case design!
