@@ -19,7 +19,7 @@ I have always wanted a game console, But my parents have never let me have one, 
 <img width="1375" height="946" alt="Screenshot 2026-05-27 115304" src="https://github.com/user-attachments/assets/992c019f-006c-4648-a67e-65030c208860" />
 
 # Assembled pictures
-<img width="1493" height="974" alt="Screenshot 2026-05-27 115144" src="https://github.com/user-attachments/assets/b402a3f4-5b3c-4d62-8e96-7c588c7c91c4" />
+<img width="362" height="363" alt="image (2)" src="https://github.com/user-attachments/assets/e4f939ea-94a5-4043-8bf8-20eccb375c9b" />
 
 # Note to reviewers
 
