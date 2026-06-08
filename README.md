@@ -10,10 +10,11 @@ I have always wanted a game console, But my parents have never let me have one, 
 <img width="1146" height="751" alt="Screenshot 2026-05-24 130716" src="https://github.com/user-attachments/assets/ab9acded-80fc-47da-8022-07f5da30d561" />
 
 # PCB Routed pictures
-<img width="463" height="751" alt="Screenshot 2026-05-24 151544" src="https://github.com/user-attachments/assets/9d898af2-76c2-4fcf-bdfd-c9aef2dc772c" />
+<img width="902" height="1489" alt="Screenshot 2026-06-08 155930" src="https://github.com/user-attachments/assets/60d9292a-3b0a-418e-bd04-8c92ca913d6d" />
 
 # PCB rendered pictures
 <img width="2001" height="1359" alt="Screenshot 2026-05-24 151535" src="https://github.com/user-attachments/assets/294bd35e-3031-457f-ae10-356ba962cfbb" />
+<img width="706" height="1145" alt="Screenshot 2026-06-08 160002" src="https://github.com/user-attachments/assets/970b02ff-05de-4080-aa73-0d9f0f4d324c" />
 
 # Case pictures
 <img width="1303" height="919" alt="Screenshot 2026-05-26 144833" src="https://github.com/user-attachments/assets/c141daf6-c47f-4db1-8f8a-d5894b9a6c18" />
