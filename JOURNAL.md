@@ -1,4 +1,16 @@
-**Total Time Spent: 8.5 hours**
+**Total Time Spent: 12.5 hours**
+
+# Recieved, assembled and realised that this project won't work (old devlog, was supposed to be devlogged almost 2 months ago)
+Time: 4 hours
+Date: September 2nd 2026, Wednesday
+I fully assembled the project but ran into an issue where the USB port wouldn't work because my dumb ahh forgot to wire the ATMega32u4's VREF pin to 5v disabling the USB communication lines because the ATMega32u4 thought it was running off battery, hence the project didn't work and it was impossible to program the thing, further more, while trying to bridge the VREF pin to 5v, I shorted 2 pins straight to ground and fried the board. Now, Even though JLCPCB gives you 2 boards I couldn't swap all my components over to the other board because I lifted a pad while trying to swap the USB D+/D- Resistors as I had the wrong resistors on this made the board unusable. 
+
+And even if i had succeeded, I forgot to put down ICSP pin headers so I probably still would not have been able to program the chip
+
+So in total, I ruined both boards because of bad design
+
+heres a picture of the board:
+<img width="3472" height="4624" alt="IMG_20260902_182203" src="https://github.com/user-attachments/assets/d4e30204-53b3-4021-9df8-9d5152473b3f" />
 
 # Routed the whole PCB, Finished BOM, Changed Display model.
 Time: 4.5 hours
