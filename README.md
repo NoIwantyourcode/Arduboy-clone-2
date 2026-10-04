@@ -27,6 +27,10 @@ I have always wanted a game console, But my parents have never let me have one, 
 # IRL pictures:
 <img width="3472" height="4624" alt="IMG_20260902_182203" src="https://github.com/user-attachments/assets/f66c271a-0f0c-4f38-be09-119b4fb51385" />
 
-# Note to reviewers
+# Demo video
 
-I managed to get the dimension tool to work and I now have a top case design!
+Here is the demo video link [https://youtu.be/vsxfW2zVnzc](https://youtu.be/vsxfW2zVnzc)
+
+# Notes
+
+Sadly this project does not work
