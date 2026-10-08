@@ -1,4 +1,11 @@
-**Total Time Spent: 12.5 hours**
+**Total Time Spent: 13.5 hours**
+
+# Added a case
+Time: 1 hour
+Date: October 8th 2026, Tuesday
+I added a case to the project to finish it off.
+heres a picture of the assembled case:
+<img width="3000" height="4000" alt="IMG_20261008_194226" src="https://github.com/user-attachments/assets/94316d66-edf7-4109-a4ba-e1362525e136" />
 
 # Recieved, assembled and realised that this project won't work (old devlog, was supposed to be devlogged almost 2 months ago)
 Time: 4 hours
