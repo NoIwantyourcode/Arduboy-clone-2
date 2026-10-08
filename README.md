@@ -26,10 +26,13 @@ I have always wanted a game console, But my parents have never let me have one, 
 
 # IRL pictures:
 <img width="3472" height="4624" alt="IMG_20260902_182203" src="https://github.com/user-attachments/assets/f66c271a-0f0c-4f38-be09-119b4fb51385" />
+<img width="3000" height="4000" alt="IMG_20261008_194226" src="https://github.com/user-attachments/assets/86d9302a-1063-4db2-aeaa-0b1440d51008" />
+
 
 # Demo video
 
 Here is the demo video link [https://youtu.be/vsxfW2zVnzc](https://youtu.be/vsxfW2zVnzc)
+Heres the second demo video (with case) [https://youtube.com/shorts/UJCODutgSrg?si=xlWPpG5ztKTAeB8U](https://youtube.com/shorts/UJCODutgSrg?si=xlWPpG5ztKTAeB8U)
 
 # Notes
 
