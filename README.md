@@ -38,4 +38,6 @@ Heres the second demo video (with case) [https://youtube.com/shorts/UJCODutgSrg?
 
 Sadly this project does not work
 
-this project uses firmware that is not mine, it uses the very popular cathy3k bootloader by MrBlinky, here is the link to the firmwares github: ()[https://github.com/MrBlinky/cathy3k]
+this project uses firmware that is not mine, it uses the very popular cathy3k bootloader by MrBlinky, here is the link to the firmwares github: [https://github.com/MrBlinky/cathy3k]
+
+and planned to test the project through games found here: [https://community.arduboy.com/c/games/35]
