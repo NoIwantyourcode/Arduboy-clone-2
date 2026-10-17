@@ -37,3 +37,5 @@ Heres the second demo video (with case) [https://youtube.com/shorts/UJCODutgSrg?
 # Notes
 
 Sadly this project does not work
+
+this project uses firmware that is not mine, it uses the very popular cathy3k bootloader by MrBlinky, here is the link to the firmwares github: ()[https://github.com/MrBlinky/cathy3k]
