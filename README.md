@@ -31,7 +31,7 @@ I have always wanted a game console, But my parents have never let me have one, 
 
 # Demo video
 
-Here is the demo video link [https://youtu.be/vsxfW2zVnzc](https://youtu.be/vsxfW2zVnzc)
+Here is the demo video link [https://youtube.com/shorts/noF8kV4LzxU?feature=shared](https://youtube.com/shorts/noF8kV4LzxU?feature=shared)
 Heres the second demo video (with case) [https://youtube.com/shorts/UJCODutgSrg?si=xlWPpG5ztKTAeB8U](https://youtube.com/shorts/UJCODutgSrg?si=xlWPpG5ztKTAeB8U)
 
 # Notes
